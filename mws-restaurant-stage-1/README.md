@@ -18,7 +18,9 @@ make website offline Availability Visited pages are rendered when there is no ne
 ## installation steps:
 * First download the zip file and extract it anywhere you want
 * then open **index.html** to see the website 
- turn network off to test Offline Availability
+* to test Offline Availability turn network off 
+* to test Accessibility go to google chrome settings -> Extension->ChromeVox Classic Extension
+  after you download it go to Extension to turn it on 
 
 
 
